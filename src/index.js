@@ -22,7 +22,7 @@ ReactDOM.render(
     {/* <AppFuncComp /> */}
 
     <AppOnChangeClass />
-    {/* <AppOnChangeFunc /> */}
+     {/* <AppOnChangeFunc /> */}
 
 
   </React.StrictMode>,
